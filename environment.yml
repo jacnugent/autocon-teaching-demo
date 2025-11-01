@@ -1,0 +1,8 @@
+name: interactive-env
+channels:
+  - defaults
+dependencies:
+  - ipywidgets
+  - ipympl
+  - jupyter
+prefix: /Users/jacquelinenugent/anaconda3/envs/interactive-env
